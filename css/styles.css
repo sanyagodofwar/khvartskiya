@@ -1,0 +1,21 @@
+nav {
+	flex-direction: row;
+	display: flex;
+	justify-content: space-between;
+	background-color:#222222 
+}
+
+nav.text {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-right: 0px;
+}
+div{background-color:#222222;
+	color:#e9e9e9;
+	
+	
+	
+}
+
+

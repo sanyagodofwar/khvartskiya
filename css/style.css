@@ -1,0 +1,203 @@
+body {
+	outline: 1px solid orange;
+	padding: 0 160px 0 160px;
+	background: white;
+}
+
+header {
+
+	color: beige;
+	background: #222222;
+}
+
+text div {
+
+	color: beige;
+}
+
+div {
+	outline: 1px solid orange;
+}
+
+footer {
+	outline: 1px solid orange;
+}
+
+h1 {
+	outline: 1px solid orange;
+}
+
+h2 {
+	outline: 1px solid orange;
+}
+
+h3 {
+	outline: 1px solid orange;
+}
+
+h4 {
+	outline: 1px solid orange;
+}
+
+h5 {
+	outline: 1px solid orange;
+}
+
+h6 {
+	outline: 1px solid orange;
+}
+
+nav {
+	outline: 1px solid orange;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+img {
+	outline: 1px solid orange;
+}
+
+li {
+	outline: 1px solid orange;
+	list-style-type: none;
+}
+
+ul {
+	outline: 1px solid orange;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+ol {
+	outline: 1px solid orange;
+}
+
+section {
+	outline: 1px solid orange;
+}
+
+span {
+	outline: 1px solid orange;
+}
+
+a {
+	outline: 1px solid orange;
+}
+
+button {
+	outline: 1px solid orange;
+	background-color:#222222;
+	
+}
+
+.start {
+	display: flex;
+	justify-content: space-around;
+
+
+}
+
+.start div {
+	width: 440px;
+
+}
+
+.start div h1 {
+	width: 245px;
+	font-size: 45px;
+}
+
+.start div p {
+	font-size: 14px;
+	width: 245px;
+
+
+}
+
+.start div button {
+	margin-top: 65px;
+}
+
+nav div {
+	display: flex;
+}
+
+nav .text div img {
+	margin-right: 60px;
+}
+
+nav .text div a {
+	margin-right: 25px;
+}
+
+.advantages {
+	display: flex;
+	justify-content: space-between;
+	background-color: #131313;
+
+}
+
+.advantages div {
+	width: 160px;
+	color: beige;
+}
+
+}
+
+.instructions.first {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	
+
+
+}
+
+.instructions .first div {
+	width: 440px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	background: #131313;
+}
+
+.instructions .second li::before {
+	display: flex;
+
+	justify-content: space-around;
+content: ;
+left:25px;
+top:22px;
+width: ...;
+height: ...;
+background-color:#ffffff;
+
+}
+
+.instructions .second div {
+	width: 480px;
+}
+
+.form {
+	display: flex;
+	justify-content: space-around;
+}
+
+.form .input {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.form .input div {
+	width: 440px;
+}
+
+.form .text div {
+	width: 330px;
+}
+.button{
+	
+form action="button.html">	
+}
